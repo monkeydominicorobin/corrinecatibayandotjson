@@ -1,0 +1,641 @@
+{
+"title" : "Corrine Catibayan At Work",
+"introduction": { 
+"paragraphOne" : "It is best to always add creativity to a seemingly boring yet lengthy rhetoric, monologue, rant, and composition. What if we report or write about the reportage, light documentary and voice over sessions of field reporters? Research (painstaking) is somehow the prevailing 	definiens of what I am about to do right now but then again what is boring if it is not even half as exciting (what). The fun, excitement, thrill and joy in discourses lie in the experimentation, exploration and attention to certain details. Corrine Catibayan is one of the youngest in the most recent batch of perfectly desperate journalists whom is hoping to get the most out of the infinite loop of apprenticeship programs of media entities in the Philippines. Is she going to get a shot at the top of the most vicious ladder of all or is she going to succumb to enormous amount of pressure like the rest of the onion skinned Generation Z." ,
+"paragraphTwo" : "Right now I am a slave whom has been keeping tabs of Corrine Catibayan's ability to structure non-fictional stories  and check if she will fumble at every turn. If she succeeds in making me shut my trap forever and ever then well and good." ,
+
+ "paragraphThree" : "The year is 2022 Anno Domini and the subject is Corrine Catibayan. Her body of work could somehow prove to her detractors (myself included) that she is worth it. Is she going to become a maverick or just another  product of the assembly line? Is she going to become a veritable trail blazer or a veritable failure of human society? I have listed some of her most recent expositions for reader's consumption. I ignored a lot her earlier reportage and there is no excuse for my shortcomings and missteps but fair is fair I am but a sleepy simpleton whom is trying to be objective and impartial every step of the way." } ,
+"monitoredReportageOne" : { "dateOfAiring" : "At least before Chinese New Year. Primetime.",
+
+"isItLive" : false,
+
+"dayOfTheWeek" : null,
+
+"durationOfReportage": "180 seconds",
+
+"subjectOfReportage" : "Lucky Charms",
+
+"didSheFumble" : null,
+
+"contentOfReportage": "It describes our yearly fascination with Chinese made lucky charms. She interviewed some alleged attendant or owner among others.",
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes"
+},
+"monitoredReportageTwo" : { "dateOfAiring" : "From beginning of the year through the month of April at least.",
+
+"isItLive" : true,
+
+"dayOfTheWeek" : null,
+
+"durationOfReportage" : "90 seconds",
+
+"subjectOfReportage" : "Various subject, mostly about Live Teleprompter Scenario/Milieu",
+
+"didSheFumble" : true,
+
+"contentOfReportage": "The death count and everything that will appeal to the senses of the masses.",
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out 10",
+
+"readerOfReportage" : "Corrine Catibayan"
+},
+"monitoredReportageThree" : { "dateOfAiring" : Fom beginning of the year through the month of April
+at least.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : null,
+
+"durationOfReportage" : 100 seconds.
+
+
+"subjectOfReportage": "Mostly about fires breaking out, in certain areas of the Philippines.",
+
+"didSheFumble" : null,
+
+"contentOfReportage": "Fires are aplenty. The cause remains unknown.",
+
+"qualitativeRating": "Best",
+
+"quantitativeRating": "8 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes"
+},
+"monitoredReportageFour" : { "dateOfAiring" : "This happened around May perhaps. Morning.",
+
+"isItLive" : null,
+
+"dayOfTheWeek" : null,
+
+"durationOfReportage" : 180 seconds.
+
+"subjectOfReportage" : "Transport Network Vehicle Service.",
+
+"didSheFumble" : null,
+
+"contentOfReportage": She interviewed some people during the course of
+this report which is good as most of these young people nowadays are
+phabbing most of the time and prefers to disengage with their fellow
+human beings.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageFive" : { "dateOfAiring" : Around early part of the month of June. Early
+Morning.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : null,
+
+"durationOfReportage" : 180 seconds.
+
+"subjectOfReportage" : Trucking Freight Charges.
+
+"didSheFumble" : null,
+
+"contentOfReportage": The "department" did not pursue this but this is
+Corrine Catibayan's finest moment (hour). She mentioned the actual cost
+of trucking to be around 15,000 up to 17,000 pesos.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageSix" : { "dateOfAiring" : Around early part of the month of June, I think.
+Morning.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : null,
+
+"durationOfReportage" :
+
+"subjectOfReportage" : Parola Compound again.
+
+"didSheFumble" : null,
+
+"contentOfReportage": A fire broke out yet again at the Parola compound
+but this time around they have a different excuse. The electrical wires
+is what they are pointing out. I say, I sense pot session. The
+interviewee is one of those resilient resident of the compound.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageSeven" : { "dateOfAiring" : Middle of June, I assume. Morning.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : null,
+
+"durationOfReportage" : 100 seconds.
+
+"subjectOfReportage" : PDEA operation.
+
+"didSheFumble" : null,
+
+"contentOfReportage": A buy bust operation in some forsaken place
+wherein some of the alleged junkies and drug stockists where allegedly
+arrested.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageEight" : { "dateOfAiring" : June 10, 2022. Evening.
+
+"isItLive" : true,
+
+"dayOfTheWeek" : Friday.
+
+"durationOfReportage" : 180 seconds.
+
+"subjectOfReportage" : Live reporting along EDSA.
+
+"didSheFumble" : true,
+
+"contentOfReportage": They (the crew) positioned themselves on an
+overpass. The "department" is pushing their slant.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageNine" : { "dateOfAiring" : Somewhere around the month of June. Morning.
+
+"isItLive" : true,
+
+"dayOfTheWeek" : null,
+
+"durationOfReportage" :
+
+"subjectOfReportage" : Live reporting in the City of Manila.
+
+"didSheFumble" : false,
+
+"contentOfReportage": Man in the street interviews about the reopening
+of the Dolomite sand beach in Manila.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageTen" : { "dateOfAiring" : Somewhere in the Month of June. Latter part of the
+morning .
+
+"isItLive" : false,
+
+"dayOfTheWeek" : null,
+
+"durationOfReportage" : 90 seconds.
+
+"subjectOfLocalNewsAggregator": Fire.
+
+"didSheFumble" : null,
+
+"contentOfLocalNewsAggregator" : She described that fires broke out in
+three different but critical spots in the Philippines.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "9 out of 10",
+
+"readerOfRepackagedNews" : Corrine Catibayan.
+},
+"monitoredReportageEleven" : { "dateOfAiring" : June 22, 2022. Morning.
+
+"isItLive" : true,
+
+"dayOfTheWeek" : "Wednesday",
+
+"durationOfReportage" : 120 seconds.
+
+"subjectOfReportage" : Live situation report.
+
+"didSheFumble" : false,
+
+"contentOfReportage": It is all about the up in arms reaction of truck
+drivers about their trucks being banned from using Metropolitan Manila's
+flyovers.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageTwelve" : { "dateOfAiring" : June 22, 2022. Morning.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : "Wednesday",
+
+"durationOfReportage" : 100 seconds.
+
+"subjectOfNewsAggregator": Death of a  Baranggay Official, Death by
+Lightning Strike, Tornado Spotted.
+
+"didSheFumble" : null,
+
+"contentOfNewsAggregator" : A kagawad was killed while riding his
+electric bike. A boy and a water buffalo was killed after being hit by
+lightning. Formation of a tornado was allegedly witnessed by many and
+recorded on camera in Cavite.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": 9 out 10.
+
+"Reader of Repackaged News": Corrine Catibayan.
+},
+"monitoredReportageThirteen" : { "dateOfAiring" : June 23, 2022. Morning.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : "Thursday",
+
+"durationOfReportage" : 100 seconds.
+
+"subjectOfLocalNewsAggregator": Drowning, Ferry Incident.
+
+"didSheFumble" : null,
+
+"contentOfLocalNewsAggregator" : A kid drowned while taking a swim. A
+ferry boat (RORO) figured in an unfortunate incident. It capsized as
+allegedly evidenced by a video.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": 8 out of 10.
+
+"Reader of Repackaged News": Corrine Catibayan.
+
+"monitoredReportageFourteen" : { "dateOfAiring" : June 24, 2022. Morning. Noon (2nd airing) .
+
+"isItLive" : false,
+
+"dayOfTheWeek" : Friday.
+
+"durationOfReportage" : 100 seconds.
+
+"subjectOfInternationalNewsAggregator" : Various.
+
+"didSheFumble" : null,
+
+"Content of International News Aggregator" : One of the alleged protesters
+in Ecuador was "allegedly" hit in the face by tear gas canister. An
+apparent subway incident caught by a body camera of a police in New
+Jersey subway. A lady allegedly fell from the subway train platform and
+into the railway. The reason cited is that she fell due to some
+description  included in one of handbooks created for the Medical
+Industry.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "9 out of 10",
+
+"Reader of Translated International News": Corrine Catibayan.
+},
+"monitoredReportageFifteen" : { "dateOfAiring" : June 24, 2022. Morning.
+
+"isItLive" : true,
+
+"dayOfTheWeek" : Friday.
+
+"durationOfReportage" : 120 seconds.
+
+"subjectOfReportage" : Live reporting in Valenzuela City.
+
+"didSheFumble" : false,
+
+"contentOfReportage": Dengue cleanup drive initiated by 33 Baranggays in
+Valenzuela City.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "9 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageSixteen" : { "dateOfAiring" : June 28, 2022. Morning.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : Tuesday.
+
+"durationOfReportage" : 200 seconds.
+
+"subjectOfReportage" : Online Scams.
+
+"didSheFumble" : null,
+
+"contentOfReportage": A very light documentary that revolves around
+deception and being on the receiving end of it. She featured two very
+willing respondents. I said willing since this is all about their
+humiliation.  Surprisingly, she was able to secure a face to face
+interview even though a topic of this kind is being discussed for all
+the world to see. Figures were presented as usual but the scope is too
+big for a very short documentary. This exposition tackled love and
+investment scam at the same time.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageSeventeen" : { "dateOfAiring" : June 30, 2022. Morning. Day of the Presidential
+Inauguration.
+
+"isItLive" : true,
+
+"dayOfTheWeek" : "Thursday",
+
+"durationOfReportage" : 160 seconds.
+
+"subjectOfReportage" : Live reporting at Pasay Taft.
+
+"didSheFumble" : false,
+
+"contentOfReportage": The proper (not improper) authorities were
+allegedly checking to make sure that everything will go smoothly and no
+untoward incident will take place at the venue of the inauguration.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageEighteen" : { "dateOfAiring" : June 30, 2022 Morning. Day of the Presidential
+Inauguration.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : "Thursday",
+
+"durationOfReportage" : 120 seconds.
+
+"subjectOfReportage" : The Presidential Inaugural Tradition.
+
+"didSheFumble" : null,
+
+"contentOfReportage": The so-called tradition  when it comes to the
+official transfer of power from the outgoing through the incoming. The
+alleged tradition starts from the courtesy call through the witnessing
+of the portraits of old and new Servants at the the so-called Palace of
+the new president.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageNineteen" : { "dateOfAiring" : July 6, 2022. Evening.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : "Wednesday",
+
+"durationOfReportage" : 180 seconds.
+
+"subjectOfReportage" : Private Miracles and Revelations.
+
+"didSheFumble" : null,
+
+"contentOfReportage": It focuses on the allegedly miraculous image of a
+young Jesus Christ also known as Santo Nino. The owner of the icon is
+claiming that she can forecast the day of your pregnancy. This is about
+the central thesis of St. Thomas Aquinas which somehow states that most
+of the time rebellious Angels are in the middle of all this aberration
+although this was not discussed. The one whom is claiming that the icon
+in question is miraculous is also the present owner. The theological
+source was also tapped to explain their position on this matter. The
+theological source is simply relaying to the faithful that they are
+relying on science to verify the claims of the icon owner and at the
+same time it will be utilized in confirming the authenticity of the
+private miracles and revelations.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageTwenty" : { "dateOfAiring" : July 7, 2022. Morning.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : "Thursday",
+
+"durationOfReportage" : 200 seconds.
+
+"subjectOfReportage" : It is okay not to be okay.
+
+"didSheFumble" : null,
+
+"contentOfReportage": The exposition is suppose to be aired the day
+before but due to time constraints or shall I say deliberately
+miscalculated circumstances it took atleast 24 hours to be aired
+finally. It is about Mental Health. The medical martial law following
+the three year cosplay event exacerbated the whole thing. She gathered
+that out of more than 3,000 calls made by anonymous callers in some
+helpline about 800 were from people who are contemplating suicide as the
+easiest path out of their real world maladjustment.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageTwentyOne" : { "dateOfAiring" : July 8, 2022. Morning.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : Friday.
+
+"durationOfReportage" : 240 seconds.
+
+"subjectOfReportage" : It is okay not to be okay 2. University of the
+Philippines, Quezon City.
+
+"didSheFumble" : null,
+
+"contentOfReportage": This one is also suppose to aired a day before but
+you know the rest. Her whole emphasis is based on the study made at
+University of Toledo about how animal patting and petting reduces the
+amount of chemical compound called Cortisol in our blood and at the same
+time the chemical compound Oxytocin is raised during the whole process.
+The UP crowd called the special dogs as Emotional Support Animals. Those
+dogs were almost able to trip her aground. The feeling of being stressed
+out while in the process of finishing a thesis as mentioned by one of
+the respondents is somewhat cured by these animals.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageTwentyTwo" : { "dateOfAiring" : July 8, 2022. Evening.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : Friday.
+
+"durationOfReportage" : 180 seconds.
+
+"subjectOfReportage" : Cashier in pain.
+
+"didSheFumble" : null,
+
+"contentOfReportage": The cashier is suffering from ringing of ears,
+headaches, and host of other recurring symptoms due to Temporo
+Mandibular Joint (TMJ) disease/disorder. Specialist doctors are having a
+tug of war as to who can really "treat or heal" her better. One of them
+is an Orthodontist. The other is a Neurologist. Finally, she needs a
+surgeon. The cashier is confused and in pain but there is no immediate
+solution in sight. The cashier whom is also a mother and a wife is the
+most resilient person of the moment.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageTwentyThree" : { "dateOfAiring" : July 13, 2022. Morning.
+
+"isItLive" : false,
+
+"dayOfTheWeek" : "Wednesday",
+
+"durationOfReportage" : 120 seconds.
+
+"subjectOfReportage" : An alleged "junkie" in a bus.
+
+"didSheFumble" :
+
+"contentOfReportage": A man allegedly caused quite a disturbance in a
+bus that runs along the route which is labeled as EDSA Bus Carousel. It
+was immediately discovered that he is "allegedly" carrying deadly
+weapons including an improvised gun.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageTwentyFour" : { "dateOfAiring" : July 13, 2022. Early Morning (First Airing).
+Morning. (Second Airing recorded).
+
+"isItLive" : true,
+
+"dayOfTheWeek" : "Wednesday",
+
+"durationOfReportage" : 180 seconds.
+
+"subjectOfReportage" : Live reporting at EDSA Bus Way Gat Andres
+Bonifacio Monument Station.
+
+"didSheFumble" : true,
+
+"contentOfReportage": The so called Vaccine Hesitancy Name Calling
+Expedition was brought up yet again by the "department". All of those
+who were interviewed at the Andres Bonifacio Monument were fully
+vaccinated but still she labeled them as "hesitant". She also said that
+she felt the hesitancy of almost all the respondent whom she interviewed
+but the caption in the screen was about the dissenting opinion that the
+booster shot is important.
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
+},
+"monitoredReportageTwentyFive" : { "dateOfAiring" : "July 13, 2022. Morning.",
+
+"isItLive" : false,
+
+"dayOfTheWeek" : "Wednesday",
+
+"durationOfReportage" : "100 seconds",
+
+"subjectOfNewsAggregator" : "Various",
+
+"didSheFumble" : null,
+
+"contentOfNewsAggregator": "Flooding in some parts of the country. A baby was thrown like trash in the stream.",
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "8 out of 10",
+
+"readerOfRepackagedNews": "Corrine Catibayan"
+},
+"monitoredReportageTwentySix" : { "dateOfAiring" : "July 14, 2022. Morning (from 7:35 am to 7:39 am).",
+
+"isItLive" : true,
+
+"dayOfTheWeek" : "Thursday",
+
+"durationOfReportage" : "180 seconds",
+
+"subjectOfReportage" : "Actual report at Obando, Bulacan.",
+
+"didSheFumble" : false,
+
+"contentOfReportage": "Parts of Bulacan is under knee deep flood as combination of cyclical tides, continuous rains, and hampered dike repairs created a non-receding water world. She interviewed atleast three man on the wet street as her source and actual footage as evidence for her reportage. The second  round of morning news was forced to go on overtime to accommodate this actual location reportage.",
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes"
+},
+"monitoredReportageTwentySeven" : { "dateOfAiring" : "July 15, 2022. Early Morning. (First Airing). Morning. (Second Airing).",
+
+"isItLive" : false,
+
+"dayOfTheWeek" : "Friday",
+
+"durationOfReportage" : "120 seconds",
+
+"subjectOfNewsAggregator" : "Various",
+
+"didSheFumble" : null,
+
+"Content of News Aggregator" :  "A team building and merry making activity is turned suddenly by some lethargic witnesses into a very tragic day as a staff of a politician was ignored by at least three people who were in the same  pool a few feet away from him. His co-workers were not even around to help him. The lethargic crowd is deadly indeed. Life guards failed to revive the victim. The owner of the resort on the other hand mentioned financial assistance as a form of solution to the mishap. A man allegedly stabbed two men with a knife who were allegedly found out to be siblings. The victims of the supposed knife stabbing died. The alleged culprit shall be charged under the title of multiple counts of murder.",
+
+"qualitativeRating" : "Best",
+
+"quantitativeRating": "10 out of 10",
+
+"readerOfRepackagedNews": "Corrine Catibayan"
+	}
+}

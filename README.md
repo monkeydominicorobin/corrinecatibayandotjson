@@ -1,6 +1,8 @@
 # Corrine Catibayan At Work README And JSON File
 
 >This is an attempt to create the future of exposition creation
+      
+[Click evidence that we got the nod of curators. Number 26 in the list](https://hive.blog/hive-118155/@hivehealth/the-daily-good-read-list-20221024)
 
 # Corrine Catibayan At Work
 

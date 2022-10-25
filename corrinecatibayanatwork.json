@@ -1035,13 +1035,13 @@ Kalinga.
 Reader of Repackaged News: Corrine Catibayan
 
 "monitoredReportageFortyOne" : { 
-"dateOfAiring" : "August 6, 2022. Evening. (from 7:57 pm to 7:59 pm).
+"dateOfAiring" : "August 6, 2022. Evening. (from 7:57 pm to 7:59 pm).",
 
 "isItLive" : true,
 
-"dayOfTheWeek" : Saturday.
+"dayOfTheWeek" : "Saturday",
 
-"durationOfReportage" : 87 seconds.
+"durationOfReportage" : "87 seconds",
 
 "subjectOfReportage" : "Live Teleprompter Scenario/Milieu. Various.",
 

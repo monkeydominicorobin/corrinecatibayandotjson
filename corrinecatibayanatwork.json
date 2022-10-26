@@ -957,83 +957,50 @@ has just started.
 
 "quantitativeRating": "10 out of 10",
 
-"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
-
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes"
+},
 "monitoredReportageThirtyNine" : { 
-"dateOfAiring" : "August 4, 2022. Morning. (from 7:02 am to 7:04 am).
-Morning (Second Airing from 11:47 am to 11:49 am).
+"dateOfAiring" : "August 4, 2022. Morning. (from 7:02 am to 7:04 am).Morning (Second Airing from 11:47 am to 11:49 am).",
 
 "isItLive" : true,
 
 "dayOfTheWeek" : "Thursday",
 
-"durationOfReportage" : 180 seconds.
+"durationOfReportage" : "180 seconds",
 
-"subjectOfReportage" : Live report. Back to school basics. Divisoria,
-City of Manila.
+"subjectOfReportage" : "Live report. Back to school basics. Divisoria, City of Manila.",
 
 "didSheFumble" : false,
 
-"contentOfReportage": After years of reluctance to reboot the classroom
-style of teaching and learning, the switch is finally turned on again to
-stimulate the atrophied senses of public school students as they
-transition from one cosplay event to another which is now dubbed as the
-comeback (to school) cosplay event. Costume role playing school
-uniforms, bags and black leather shoes are the graphically classic items
-at the Divisoria Plea Market District. Corrine's grocery cart checklist
-is a note full of the current price range for these blandly designed
-cosplay items. She checked a total of three items. Check. Check. Check.
-The broad items under the uniform category namely Polo, Blouse, Long
-Pants, and Skirts is priced above the 199 pesos level. Small sized
-version of the items is about 200 pesos (less than 4 US Dollars) .
-Medium sized version of the uniform is priced at 220 pesos(4 US
-Dollars). Large sized version of the same is marked at about 240 pesos
-(4 US Dollars). The extra large edition on the other hand is pegged at
-around 260 pesos (4 US Dollars). Next on this regular list is the black
-leather shoes. The small ones (size 24 through 29) are worth 150 pesos
-(less than 3 US Dollars). Medium sized (size 30 through 35) shoes are
-worth 180 pesos ( less than 3 US Dollars). Large (size 36 through 40)
-shoes are worth 180 through 230 pesos while the Extra large (size 41
-through 45) ones are worth 250 pesos. The heeled shoes are worth 200
-pesos. The school type bags (last but not the least) on the other hand
-are worth 150 through 250 pesos. Jerielyn Tamayo timidly confessed that
-she adjusted her markup based on the present price of her inventory.
-Eileen Gunong exclaimed that buying enthusiasm is still low although she
-noticed a spike in purchasing moments during the weekend and Sunday's
-which is a boon for stockists. The best quality school uniforms is
-somewhat forever present at Divisoria so always haggle for your bang for
-a buck chance of a lifetime.
+"contentOfReportage": "After years of reluctance to reboot the classroom style of teaching and learning, the switch is finally turned on again to stimulate the atrophied senses of public school students as they transition from one cosplay event to another which is now dubbed as the comeback (to school) cosplay event. Costume role playing school uniforms, bags and black leather shoes are the graphically classic items at the Divisoria Plea Market District. Corrine's grocery cart checklist is a note full of the current price range for these blandly designed cosplay items. She checked a total of three items. Check. Check. Check. The broad items under the uniform category namely Polo, Blouse, Long Pants, and Skirts is priced above the 199 pesos level. Small sized version of the items is about 200 pesos (less than 4 US Dollars) . Medium sized version of the uniform is priced at 220 pesos(4 US Dollars). Large sized version of the same is marked at about 240 pesos (4 US Dollars). The extra large edition on the other hand is pegged at around 260 pesos (4 US Dollars). Next on this regular list is the black leather shoes. The small ones (size 24 through 29) are worth 150 pesos (less than 3 US Dollars). Medium sized (size 30 through 35) shoes are worth 180 pesos ( less than 3 US Dollars). Large (size 36 through 40) shoes are worth 180 through 230 pesos while the Extra large (size 41 through 45) ones are worth 250 pesos. The heeled shoes are worth 200 pesos. The school type bags (last but not the least) on the other hand are worth 150 through 250 pesos. Jerielyn Tamayo timidly confessed that she adjusted her markup based on the present price of her inventory. Eileen Gunong exclaimed that buying enthusiasm is still low although she noticed a spike in purchasing moments during the weekend and Sunday's which is a boon for stockists. The best quality school uniforms is somewhat forever present at Divisoria so always haggle for your bang for a buck chance of a lifetime.",
 
 "qualitativeRating" : "Best",
 
 "quantitativeRating": "10 out of 10",
 
-"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
-
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes"
+},
 "monitoredReportageForty" : { 
-"dateOfAiring" : "August 4, 2022. Morning (from 11:51 am to 11:53 am).
+"dateOfAiring" : "August 4, 2022. Morning (from 11:51 am to 11:53 am).",
 
 "isItLive" : false,
 
 "dayOfTheWeek" : "Thursday",
 
-"durationOfReportage" : 100 seconds.
+"durationOfReportage" : "100 seconds",
 
-"subjectOfLocalNewsAggregator": Various.
+"subjectOfLocalNewsAggregator": "Various",
 
 "didSheFumble" : null,
 
-Content of Local News Aggregator: A man trapped and killed by a
-landslide event. Three Copra farmers were killed in San Andres. Motive
-is still unknown. A vehicle and passengers fell into a ravine in Tabuk,
-Kalinga.
+"contentOfLocalNewsAggregator": "A man trapped and killed by a landslide event. Three Copra farmers were killed in San Andres. Motive is still unknown. A vehicle and passengers fell into a ravine in Tabuk, Kalinga",
 
 "qualitativeRating" : "Best",
 
-"quantitativeRating": 8 out of 10.
+"quantitativeRating": "8 out of 10",
 
-Reader of Repackaged News: Corrine Catibayan
-
+"readerOfRepackagedNews": "Corrine Catibayan"
+},
 "monitoredReportageFortyOne" : { 
 "dateOfAiring" : "August 6, 2022. Evening. (from 7:57 pm to 7:59 pm).",
 

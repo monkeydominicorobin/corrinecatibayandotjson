@@ -887,8 +887,7 @@ am).
 
 "durationOfReportage" : 100 seconds.
 
-"subjectOfReportage" : Live Teleprompter Scenario/Milieu. ICU utilization
-rate and the weather.
+"subjectOfReportage" : "Live Teleprompter Scenario/Milieu. ICU utilization rate and the weather.",
 
 "didSheFumble" : true,
 

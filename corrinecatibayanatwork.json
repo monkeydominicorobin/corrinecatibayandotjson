@@ -876,16 +876,16 @@ expected to finally come to fruition.
 
 "quantitativeRating": "10 out of 10",
 
-"creatorOfReportage" : "Corrine Catibayan and People behind the scenes".
-
-37. "monitoredReportage" : { "dateOfAiring" : "August 2, 2022. Morning. (from 11:19 am to 11:20
-am).
+"creatorOfReportage" : "Corrine Catibayan and People behind the scenes"
+},
+"monitoredReportageThirtySeven" : { 
+"dateOfAiring" : "August 2, 2022. Morning. (from 11:19 am to 11:20 am).",
 
 "isItLive" : true,
 
-"dayOfTheWeek" : Tuesday
+"dayOfTheWeek" : "Tuesday",
 
-"durationOfReportage" : 100 seconds.
+"durationOfReportage" : "100 seconds",
 
 "subjectOfReportage" : "Live Teleprompter Scenario/Milieu. ICU utilization rate and the weather.",
 
